@@ -12,13 +12,21 @@ I'm Mohammed Al-Smadi, a software developer working in the development of mobile
 - 📫 How to reach me: [email](mohammadhasan.smadi@gmail.com)
 - ⚡ Fun fact: I love solving problems and finding technical solutions
 
-## Skills
+## Languages and Tools
 
-- React Native 
-- JavaScript
-- HTML/CSS
-- Git
-- Node js
+Here are some of the languages and tools that I use:
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</p>
+
 
 ## Projects
 
