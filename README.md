@@ -26,6 +26,13 @@ Here are some of the languages and tools that I use:
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
+## Connect with Me
+
+You can connect with me on the following platforms:
+
+<p align="left">
+  <a href="[https://www.linkedin.com/in/example](https://www.linkedin.com/in/mohammad-al-smadi-35a0171a1/)" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
+</p>
 
 
 ## Projects
