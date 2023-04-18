@@ -1,6 +1,6 @@
-# Hi, I'm Mohammed Al-Smadi! 👋
+# Hi there, I'm Mohammed Al-Smadi! 👋
 
-I'm Mohammed Al-Smadi, a software developer working in the development of mobile applications through React Native technology. I am currently training in developing websites. I love solving problems and finding technical solutions for that..
+I'm a passionate software developer specializing in the development of mobile applications using React Native. I'm constantly expanding my skills and knowledge, and currently, I'm exploring the world of web development, focusing on React and Node.js.
 
 ## About Me
 
