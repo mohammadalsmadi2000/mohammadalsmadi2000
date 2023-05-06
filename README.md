@@ -25,6 +25,7 @@ Here are some of the languages and tools that I use:
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png" alt="Firebase" width="40" height="40"/>
 </p>
 
 ## Connect with Me
@@ -35,6 +36,12 @@ You can connect with me on the following platforms:
   <a href="https://www.linkedin.com/in/mohammad-al-smadi-35a0171a1/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
+
+## My Github Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadalsmadi2000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages : 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalsmadi2000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
@@ -51,3 +58,5 @@ best advice to both parties that aim to improve
 education and the teaching environment.
 
 Feel free to connect with me and check out my projects! 😀
+
+
