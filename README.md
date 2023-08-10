@@ -40,8 +40,6 @@ You can connect with me on the following platforms:
 ## My Github Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadalsmadi2000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Top Languages : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalsmadi2000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
