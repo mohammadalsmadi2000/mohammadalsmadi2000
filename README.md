@@ -4,8 +4,7 @@ I'm a passionate software developer specializing in the development of mobile ap
 
 ## About Me
 
-- 🔭 I’m currently working on improving my web development skills
-- 🌱 I’m currently learning React and Node.js
+
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with advanced React concepts
 - 💬 Ask me about React Native, JavaScript, or anything tech-related
